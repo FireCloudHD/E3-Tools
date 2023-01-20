@@ -1,20 +1,24 @@
 Credits to Tijan
 Tip with Satoshis welcome to: suavekevin06@walletofsatoshi.com
 
+prior installations:
 https://www.python.org/downloads/
 https://desktop.github.com/
+https://code.visualstudio.com/download (System Installer for all users)
+ Install Extensions: Python, Python Extensions Pack 1.7.0, MagicPython
 
-clone from url into github desktop:
+clone from url into github desktop github:
 https://github.com/Tijanoscriptus/E3-Tools
 
 C:\Users\Administrator\Documents\GitHub\E3-Tools\RLC Calculator V1_0_0
 
 
 
-Future Features
-
+Future features:
+space between number and "mA"
 mA als Eingabe
 Mehrere Eingaben Komma separiert: L=3.2e-6,C=5.3e-3
+Remove "To calculate the remaining values, type <start>
 
 
 
