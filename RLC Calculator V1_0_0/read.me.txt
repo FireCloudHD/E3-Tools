@@ -1,0 +1,21 @@
+Credits to Tijan
+Tip with Satoshis welcome to: suavekevin06@walletofsatoshi.com
+
+https://www.python.org/downloads/
+https://desktop.github.com/
+
+clone from url into github desktop:
+https://github.com/Tijanoscriptus/E3-Tools
+
+C:\Users\Administrator\Documents\GitHub\E3-Tools\RLC Calculator V1_0_0
+
+
+
+Future Features
+
+mA als Eingabe
+Mehrere Eingaben Komma separiert: L=3.2e-6,C=5.3e-3
+
+
+
+
