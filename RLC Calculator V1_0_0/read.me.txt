@@ -12,6 +12,7 @@ https://github.com/Tijanoscriptus/E3-Tools
 
 C:\Users\Administrator\Documents\GitHub\E3-Tools\RLC Calculator V1_0_0
 
+Open above Folder and run main in Visual Studio with Ctl-F5
 
 
 Future features:
